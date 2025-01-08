@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I am a **Data Analyst** with a strong focus on delivering actionable insights, optimizing business processes, and empowering data-driven decision-making. With expertise in tools like **SQL**, **Tableau**, **Power BI**, and **Excel**. I thrive on creating impactful dashboards, performing in-depth data analyses, and collaborating with cross-functional teams.
+I am a **Data Analyst** with a strong focus on delivering actionable insights, optimizing business processes, and empowering data-driven decision-making. With expertise in tools like **SQL**, **Tableau**, **Power BI**, **Python** and **Excel**. I thrive on creating impactful dashboards, performing in-depth data analyses, and collaborating with cross-functional teams.
 
 ---
 
