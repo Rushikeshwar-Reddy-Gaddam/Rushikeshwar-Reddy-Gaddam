@@ -16,8 +16,7 @@ I am a **Data Analyst** with a strong focus on delivering actionable insights, o
 
 ## 🎓 Education:
 - **Master of Science in Information Systems (Business Data Analytics)**  
-  Central Michigan University, 2023–2024 (GPA: 3.83/4)
-
+  
 ---
 
 ## 🛠️ Technical Expertise:
